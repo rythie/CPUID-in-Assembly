@@ -1,6 +1,6 @@
 CPUID-in-Assembly
 =================
-This is only designed to run on x86 Linux machines.
+This is only designed to run on x86 Linux machines. I wrote this code around Jan 2005 and it's not really been updated since, use at your own risk.
 
 How to Build from Source
 ------------------------
